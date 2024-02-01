@@ -1,6 +1,6 @@
 import React from "react";
 import user from "../data/user";
-function Links(props) {
+function Links() {
     return (
         <div>
             <h3>Links</h3>
